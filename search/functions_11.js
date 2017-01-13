@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['vardef',['VarDef',['../classVarDef.html#a860e9372d8c61b3efc876eae2847f625',1,'VarDef']]],
   ['visitassign',['visitAssign',['../classTransPass2.html#a0f794c346de740491ce5042a08a7f1a7',1,'TransPass2']]],
   ['visitbinary',['visitBinary',['../classTransPass2.html#a1db5d8ebbd42773739c8789c4a7b2b03',1,'TransPass2']]],
   ['visitblock',['visitBlock',['../classTransPass2.html#a17da318aee25d66ab1202cbefaf811c7',1,'TransPass2::visitBlock()'],['../classBuildSymbol.html#a2d50d97c9cfad7781480d0f4df4075cd',1,'BuildSymbol::visitBlock()']]],

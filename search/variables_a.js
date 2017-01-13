@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['scopestack',['scopeStack',['../classScopeStack.html#a20c7621b772379f1ed59eb7459bfb616',1,'ScopeStack']]],
-  ['step',['step',['../classAstPrinter.html#ae74a04dd0434f2eeae46fce4616fe41a',1,'AstPrinter']]],
-  ['str',['str',['../classTac.html#aed0467d6a39a5f6c9cd175a98383957d',1,'Tac']]],
-  ['stringconst',['stringConst',['../classX86.html#ab96d01b48393322d09dddcbae1deb73f',1,'X86']]],
-  ['symbols',['symbols',['../classScope.html#a8d69636f7b642345ca365fd71bb3bdb0',1,'Scope']]]
+  ['name',['name',['../classLabel.html#a3e6731c765e1cbd1605837f08f09bbf4',1,'Label::name()'],['../classClassDef.html#ab541c1ed686e36cb9355916f485b20c2',1,'ClassDef::name()'],['../classFuncDef.html#a22bb8da44388e6cc85b94db69a2f4c30',1,'FuncDef::name()'],['../classVarDef.html#ab9a80c78c0afe99f9b83d26f46353912',1,'VarDef::name()']]],
+  ['newfunclabel',['newFuncLabel',['../classClass.html#abba8e87832c9079d683957d2d463877b',1,'Class']]]
 ];
